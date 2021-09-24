@@ -23,3 +23,9 @@ Behavior observation is taken into account for evaluation:
    Python as backend language 
    Tkinter for creating the interface 
    Oracle 11g as database
+
+## Team Members
+
+Yash Udaiwal
+
+Lovepreet Singh
